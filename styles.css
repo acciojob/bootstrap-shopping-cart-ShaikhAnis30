@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.main{
+    background-color: #f7fbff;
+}
+
+.main h1,h5{
+    color: #3b99e0;
+}
+
+.col-md-3{
+    background-color: #f7fbff;
+    border-top: 2px solid #5ea4f3;
+}
+
